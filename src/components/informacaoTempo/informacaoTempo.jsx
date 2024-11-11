@@ -2,7 +2,6 @@
 import './informacaoTempo.css'
 
 function InformacaoTempo({ tempo }) {
-  console.log(tempo);
 
   return (
     <div className="tempo-container">
