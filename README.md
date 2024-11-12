@@ -30,7 +30,7 @@ Se o Node.js não estiver instalado, baixe-o em: [https://nodejs.org](https://no
    Execute o seguinte comando para clonar o repositório:
 
    ```bash
-   git clone https://github.com/SEU_USUARIO/nome-do-repositorio.git
+   git clone git@github.com:PedroLucasBastos/previsao_do_tempo.git
    ```
 
 2. **Instale as dependências**:
@@ -38,7 +38,7 @@ Se o Node.js não estiver instalado, baixe-o em: [https://nodejs.org](https://no
    Navegue até a pasta do projeto e execute o comando para instalar as dependências necessárias:
 
    ```bash
-   cd nome-do-repositorio
+   cd /previsao_do_tempo
    npm install
    ```
 
