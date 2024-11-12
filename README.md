@@ -10,6 +10,7 @@ Este projeto é uma aplicação simples para exibir a previsão do tempo utiliza
 -<img align="center" alt="vitejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg">**Vite**: Ferramenta de construção moderna e rápida para projetos frontend.
 -<img align="center" alt="axios" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain-wordmark.svg">**Axios**: Biblioteca para realizar requisições HTTP.
 -**Lottie**: Biblioteca para renderizar animações JSON (Lottie) na interface.
+
 -**OpenWeatherMap API**: API para obter informações sobre o tempo.
 
 ## Como Rodar o Projeto
