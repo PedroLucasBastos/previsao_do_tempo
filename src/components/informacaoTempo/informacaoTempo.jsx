@@ -16,7 +16,7 @@ function InformacaoTempo({ tempo }) {
         <p className="descricao">{tempo.weather[0].description}</p>
       </div>
       <div className="detalhes">
-        <p>Sensação termica:{Math.round(tempo.main.feels_like)}</p>
+        <p>Sensação termica:{Math.round(tempo.main.feels_like)}°C</p>
         <p>Pressão: {tempo.main.pressure}</p>
         <p>Umidade: {tempo.main.humidity}%</p>
       </div>

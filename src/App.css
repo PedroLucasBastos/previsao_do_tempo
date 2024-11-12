@@ -32,3 +32,19 @@ button{
 button:hover {
   background-color: #f57c00;
 }
+.container-interno{
+  border-radius: 20px;
+  background-color: rgba(7, 157, 203, 0.8);
+  box-shadow: rgba(7, 157, 203, 0.8);
+}
+.erro-busca{
+  color: red;
+}
+.carregando {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: auto;
+  margin-right: auto; /* Centraliza horizontalmente */
+  width: 40px; /* Certifique-se de que ocupa a largura total */
+}

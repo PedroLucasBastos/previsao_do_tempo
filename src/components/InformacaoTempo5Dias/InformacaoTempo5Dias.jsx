@@ -15,7 +15,7 @@ function InformacaoTempo5Dias({ tempo5Dias }) {
     }
   }
 
-  const proximos5Dias = Object.values(previsaoDiaria).slice(1, 6);
+  const proximos5Dias = Object.values(previsaoDiaria).slice(0, 6);
 
   function converterData(data) {
     const novaData = new Date(data.dt * 1000).toLocaleDateString("pt-BR", {
